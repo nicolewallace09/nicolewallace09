@@ -24,8 +24,8 @@ Frameworks & Libraries: React (Hook, Redux), Vue, jQuery, Bootstrap, Materialize
 Tools:  MongoDB, MySQL, Sqlite3, Git, GitHub, Command Line, Heroku, Jest, VSCode 
 
 ✨ Some fun things about me:
-* I'm a dog lover (sorry cat people)
-* I love hiking and rollerskating (I'm not good at rollerskating though) 
+* I'm a dog lover 
+* I love hiking and rollerskating 
 * I'm into all things Disney
 * I'm a movie enthusiast, especially horror and thillers
 * My weakness is ice cream 
