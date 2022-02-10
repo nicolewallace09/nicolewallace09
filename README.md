@@ -3,6 +3,7 @@
      alt='cute computer icon'
      width='50%'
      margin= '0 auto'
+     align="center"
 />
 
 ### Hello World, I'm Nicole! 👋 Nice to virtually meet you! 🙂
