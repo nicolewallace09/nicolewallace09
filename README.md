@@ -2,7 +2,7 @@
 <img 
      src='./Nicole Wallace.gif' 
      alt='cute computer icon'
-     width='50%'
+     width='75%'
      style='margin: 0 auto'
 />
 </p>
