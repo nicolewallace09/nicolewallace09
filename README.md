@@ -20,7 +20,7 @@ I am Full Stack Software Engineer in the SF Bay Area with a Bachelor’s Degree 
 />
 </p>
 
-## 💻 My tech stack<br>
+## 💻 My Tech Stack<br>
 
 Languages: JavaScript (AJAX, JSON), HTML, CSS, SQL
 Frameworks & Libraries: React (Hook, Redux), Vue, jQuery, Bootstrap, Materialize,  Node.js  (Express.js, Inquirer.js, File System, Sequelize), Handlebars.js, Recharts.js, GraphQL/Apollo
@@ -34,7 +34,7 @@ Tools:  MongoDB, MySQL, Sqlite3, Git, GitHub, Command Line, Heroku, Jest, VSCode
 * My weakness is ice cream 
 
 
-## ⛓ My links
+## ⛓ My Links
 * LinkedIn: https://www.linkedin.com/in/nicole-wallace09/
 * Portfolio: https://nicolewallace.vercel.app/
 
