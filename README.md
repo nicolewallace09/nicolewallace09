@@ -1,6 +1,6 @@
 ### Hello World, I'm Nicole! 👋 Nice to virtually meet you! 🙂
 
-![image](https://www.canva.com/design/DAEh9Vy3WCc/U8MuB6_lyIrgMFqEGPuvLg/view?utm_content=DAEh9Vy3WCc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+![image]("https://www.canva.com/design/DAEh9Vy3WCc/U8MuB6_lyIrgMFqEGPuvLg/view?utm_content=DAEh9Vy3WCc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu")
 
 I am Full Stack Software Engineer in the SF Bay Area with a Bachelor’s Degree and 2+ years professional experience in Business Administration combined with 3 Liberal Arts Associate’s Degrees in Arts and Sciences. I am a naturally curious person which makes me want to always learn new things, a problem-solver who questions everything, and a hard worker who doesn't take life too seriously and enjoys the little things.
 
