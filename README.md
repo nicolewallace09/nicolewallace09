@@ -2,7 +2,7 @@
 <img 
      src='./Static website-cuate.png' 
      alt='cute computer icon'
-     width='50%'
+     width='20%'
      style='margin: 0 auto'
 />
 </p>
