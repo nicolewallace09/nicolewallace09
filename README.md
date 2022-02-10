@@ -2,6 +2,7 @@
      src='./Static website-cuate.png' 
      alt='cute computer icon'
      width='50%'
+     style="display: block; margin: 0 auto"
 />
 
 ### Hello World, I'm Nicole! 👋 Nice to virtually meet you! 🙂
