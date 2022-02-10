@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-     src='./Static website-cuate.png' 
+     src='./NicoleWallace.gif' 
      alt='cute computer icon'
      width='50%'
      style='margin: 0 auto'
