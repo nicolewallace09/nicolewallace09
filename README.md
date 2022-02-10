@@ -33,7 +33,7 @@ Tools:  MongoDB, MySQL, Sqlite3, Git, GitHub, Command Line, Heroku, Jest, VSCode
 
 ⛓ My links
 * LinkedIn: https://www.linkedin.com/in/nicole-wallace09/
-* Portfolio: https://nicolewallace09.github.io/nicolewallace/
+* Portfolio: https://nicolewallace.vercel.app/
 
 ✉️ Get in contact with me 
 * Email: nicole.elisaw@gmail.com
