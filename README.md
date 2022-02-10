@@ -1,9 +1,11 @@
+<p align="center">
 <img 
      src='./Static website-cuate.png' 
      alt='cute computer icon'
      width='50%'
      style='margin: 0 auto'
 />
+</p>
 
 ### Hello World, I'm Nicole! 👋 Nice to virtually meet you! 🙂
 
